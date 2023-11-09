@@ -13,6 +13,8 @@ Translated by
 
 Original Translation appeares at
 
-http://www.spcnet.tv/forums/showthread.php/11469-Dagger-Lee-unabridged#.WzR18UiFOM8
+http://www.spcnet.tv/forums/showthread.php/11469-Dagger-Lee-unabridged#.WzR18UiFOM8]
+
+epub file can be downloaded [here](https://github.com/psksvp/SSRS/releases) 
 
 The epub is produced by a great free software [Pandoc](https://pandoc.org/)
