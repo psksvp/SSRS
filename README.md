@@ -15,3 +15,4 @@ Original Translation appeares at
 
 http://www.spcnet.tv/forums/showthread.php/11469-Dagger-Lee-unabridged#.WzR18UiFOM8
 
+The epub is produced by a great free software [Pandoc](https://pandoc.org/)
